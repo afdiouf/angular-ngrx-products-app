@@ -1,0 +1,43 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": "600",
+      "quantity": 12,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 1200,
+      "quantity": 10,
+      "selected": true,
+      "available": false
+    },
+    {
+      "name": "Console de jeux",
+      "price": "250",
+      "quantity": "2",
+      "selected": false,
+      "id": 3
+    },
+    {
+      "id": 5,
+      "name": "Smartphone",
+      "price": "800",
+      "quantity": "1",
+      "selected": true,
+      "available": null
+    },
+    {
+      "id": 6,
+      "name": "WebCam2",
+      "price": "600",
+      "quantity": "9",
+      "selected": true,
+      "available": null
+    }
+  ]
+}
